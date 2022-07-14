@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @GuidoDSalem
-- 👀 I’m interested in ... Native Android Development
+- 👀 I’m interested in ... Native Android Development / Deep Learning
 - 🌱 I’m currently learning ... Computer Science
 - 📫 How to reach me ... guidosalem.dev@gmail.com
 
